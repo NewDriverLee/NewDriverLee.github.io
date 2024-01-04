@@ -43,4 +43,4 @@ Please see [Publications](/publications/)
   
 Academic Service
 ======
-* Reviewer for **IEEE Communications Letters**, **IEEE Transactions on Circuits and Systems II: Express Briefs**, **Science China: Information Science**, and **IEEE Access**.
+* Reviewer for ***IEEE Communications Letters***, ***IEEE Transactions on Circuits and Systems II: Express Briefs***, ***Science China: Information Science***, and ***IEEE Access***.
