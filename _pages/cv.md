@@ -39,7 +39,7 @@ In genenral, I'm intereted in hardware architecture design for domain-specific c
 
 Publications
 ======
-Please see [Publications](https://newdriverlee.github.io/WenjieLi.github.io/publications/)
+Please see [Publications](https://newdriverlee.github.io/publications/)
   
 Academic Service
 ======
