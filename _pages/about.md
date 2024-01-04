@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. Now I'm a Ph.D. candidate of [the School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), China. I was born in Chongqing, China.
+Welcome to my homepage. Now I'm a Ph.D. candidate of [the School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), China. I was born in Chongqing, China. Before 2013, I lived in Chongqing. Subsequently, I spent seven years in Nanjing from 2013 to 2020. After 2020, I moved to Shanghai.
 
 A data-driven personal website
 ======
