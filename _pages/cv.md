@@ -33,9 +33,9 @@ In genenral, I'm intereted in hardware architecture design for domain-specific c
 * **Stochastic computing** (previous)
 
   As a new computing paradigm, stochastic computing has its advantages when compared with conventional binary computing, with **low-complexity** arithmetic units and **fault tolerance** being the most prominent ones.
-* **Hardware architecture design for deep learning** (current)
+* **Hardware acceleration for deep learning** (current)
 
-  Research on hardware acceleration for deep learning includes topics such as **quantization**, **arithmetic units**, **accelerator hardware architectures**, and more. The involved models encompass **convolutional convolutional neural networks (CNNs)**, **Transformers**, and **large language models (LLMs)**.
+  Related topics include **quantization**, **arithmetic units**, **accelerator hardware architectures**, and more. The involved models encompass **convolutional convolutional neural networks (CNNs)**, **Transformers**, and **large language models (LLMs)**.
 
 Publications
 ======
