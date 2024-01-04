@@ -32,10 +32,10 @@ In genenral, I'm intereted in hardware architecture design for domain-specific c
   I have a certain research background in both **LDPC** codes and **polar** codes. I specialized in algebraic codes, such as **RS** codes, **BCH** codes, and their concantenated codes.
 * **Stochastic computing** (previous)
 
-  As a new computing paradigm, stochastic computing has its advantages when compared with conventional binary computing, with **low-complexity** arithmetic units and **fault tolerance** being the most prominent ones.
+  As a new computing paradigm, stochastic computing has its advantages when compared with conventional binary computing, with *low-complexity arithmetic units* and *fault tolerance* being the most prominent ones.
 * **Hardware acceleration for deep learning** (current)
 
-  Related topics include **quantization**, **arithmetic units**, **accelerator hardware architectures**, and more. The involved models encompass **convolutional convolutional neural networks (CNNs)**, **Transformers**, and **large language models (LLMs)**.
+  Related topics include *quantization*, *arithmetic units*, *accelerator hardware architectures*, and more. The involved models encompass **convolutional convolutional neural networks (CNNs)**, **Transformers**, and **large language models (LLMs)**.
 
 Publications
 ======
