@@ -39,7 +39,7 @@ In genenral, I'm intereted in hardware architecture design for domain-specific c
 
 Publications
 ======
-Please see [Publications](/publications/)
+Please see [Publications](../publications/)
   
 Academic Service
 ======
