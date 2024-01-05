@@ -15,8 +15,7 @@ Education
 * M.S. **Nanjing University**, 2017.09-2020.06
   * Supervisor: Zhongfeng Wang, Professor, Fellow of IEEE ([Google Scholar](https://scholar.google.com/citations?user=faC-qekAAAAJ&hl=zh-CN), [Sun Yat-sen University](https://ese.nju.edu.cn/wzf_24054/list.htm), [Nanjing University](https://ese.nju.edu.cn/wzf_24054/list.htm))
 * Ph.D. **Shanghai Jiao Tong University**, 2021.04-2025.03 (expected)
-  * Supervisor 1: Guanghui He, Professor ([Shanghai Jiao Tong University](https://dmne.sjtu.edu.cn/dmne/faculty/heguanghui/))
-  * Supervisor 2: Ningyi Xu, Professor ([Shanghai Jiao Tong University](http://www.qingyuan.sjtu.edu.cn/a/xu-ning-yi-1.html))
+  * Supervisor: Guanghui He, Professor ([Shanghai Jiao Tong University](https://dmne.sjtu.edu.cn/dmne/faculty/heguanghui/)), and Ningyi Xu, Professor ([Shanghai Jiao Tong University](http://www.qingyuan.sjtu.edu.cn/a/xu-ning-yi-1.html))
 
 Work Experience
 ------
