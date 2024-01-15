@@ -24,7 +24,7 @@ Work Experience
   
 Resear Interests
 ------
-In genenral, I'm intereted in hardware architecture design for domain-specific computing.
+In genenral, I'm interested in hardware architecture design for domain-specific computing.
 
 * **Error correction codes and their hardware architecture design** (previous)
   
