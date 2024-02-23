@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Journal Papers
-1. **W. Li**, A. Hu, N. Xu, G. He, "Quantization and Hardware Architecture Co-Design for Matrix-Vector Multiplications of Large Language Models," in ***IEEE Transactions on Circuits and Systems I: Regular Papers***, 2024, accepted.
-2. A. Hu, **W. Li**, D. Lyu, G. He, "Efficient Parallel Stochastic Computing Multiply-Accumulate (MAC) Technique Using Pseudo-Sobol Bit-Streams", in ***IEEE Transactions on Nanotechnology***, 2024, accepted.
+1. **W. Li**, A. Hu, N. Xu, G. He, "Quantization and Hardware Architecture Co-Design for Matrix-Vector Multiplications of Large Language Models," in ***IEEE Transactions on Circuits and Systems I: Regular Papers***, 2024, early access.
+2. A. Hu, **W. Li**, D. Lyu, G. He, "Efficient Parallel Stochastic Computing Multiply-Accumulate (MAC) Technique Using Pseudo-Sobol Bit-Streams", in ***IEEE Transactions on Nanotechnology***, 2024, early access.
 3. **W. Li**, A. Hu, N. Xu and G. He, "A Precision-Scalable Deep Neural Network Accelerator With Activation Sparsity Exploitation," in ***IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems***, vol. 43, no. 1, pp. 263-276, Jan. 2024.
 4. **W. Li**, A. Hu, G. Wang, N. Xu and G. He, "Low-Complexity Precision-Scalable Multiply-Accumulate Unit Architectures for Deep Neural Network Accelerators," in ***IEEE Transactions on Circuits and Systems II: Express Briefs***, vol. 70, no. 4, pp. 1610-1614, April 2023.
 5. **W. Li**, N. Xu, R. Wang and G. He, "Efficient Compression Methods for Wire-Spread-Based Stochastic Computing Deep Neural Networks," in ***IEEE Transactions on Circuits and Systems II: Express Briefs***, vol. 69, no. 11, pp. 4538-4542, Nov. 2022.
