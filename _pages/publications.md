@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
-1. **W. Li**, A. Hu, N. Xu, G. He, "CoDA: A Co-Design Framework for Versatile and Efficient Attention Accelerators," in ***IEEE Transactions on Computers***, 2024, accepted.
+1. **W. Li**, A. Hu, N. Xu, G. He, "CoDA: A Co-Design Framework for Versatile and Efficient Attention Accelerators," in ***IEEE Transactions on Computers***, vol. 73, no. 8, pp. 1924-1938, Aug. 2024.
 2. **W. Li**, A. Hu, N. Xu, G. He, "Quantization and Hardware Architecture Co-Design for Matrix-Vector Multiplications of Large Language Models," in ***IEEE Transactions on Circuits and Systems I: Regular Papers***,  vol. 71, no. 6, pp. 2858-2871, June 2024.
 3. A. Hu, **W. Li**, D. Lyu, G. He, "Efficient Parallel Stochastic Computing Multiply-Accumulate (MAC) Technique Using Pseudo-Sobol Bit-Streams", in ***IEEE Transactions on Nanotechnology***, vol. 23, pp. 170-179, 2024.
 4. **W. Li**, A. Hu, N. Xu and G. He, "A Precision-Scalable Deep Neural Network Accelerator With Activation Sparsity Exploitation," in ***IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems***, vol. 43, no. 1, pp. 263-276, Jan. 2024.
