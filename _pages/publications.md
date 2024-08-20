@@ -6,16 +6,17 @@ author_profile: true
 ---
 
 ## Journal Papers
-1. G. Wang, S. Cai, **W. Li**, D. Lyu, G. He, "BSViT: A Bit-Serial Vision Transformer Accelerator Exploiting Dynamic Patch and Weight Bit-Group Quantization," in ***IEEE Transactions on Circuits and Systems I: Regular Papers***,  early access, 2024.
-2. **W. Li**, A. Hu, N. Xu, G. He, "CoDA: A Co-Design Framework for Versatile and Efficient Attention Accelerators," in ***IEEE Transactions on Computers***, vol. 73, no. 8, pp. 1924-1938, Aug. 2024.
-3. **W. Li**, A. Hu, N. Xu, G. He, "Quantization and Hardware Architecture Co-Design for Matrix-Vector Multiplications of Large Language Models," in ***IEEE Transactions on Circuits and Systems I: Regular Papers***,  vol. 71, no. 6, pp. 2858-2871, June 2024.
-4. A. Hu, **W. Li**, D. Lyu, G. He, "Efficient Parallel Stochastic Computing Multiply-Accumulate (MAC) Technique Using Pseudo-Sobol Bit-Streams", in ***IEEE Transactions on Nanotechnology***, vol. 23, pp. 170-179, 2024.
-5. **W. Li**, A. Hu, N. Xu and G. He, "A Precision-Scalable Deep Neural Network Accelerator With Activation Sparsity Exploitation," in ***IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems***, vol. 43, no. 1, pp. 263-276, Jan. 2024.
-6. **W. Li**, A. Hu, G. Wang, N. Xu and G. He, "Low-Complexity Precision-Scalable Multiply-Accumulate Unit Architectures for Deep Neural Network Accelerators," in ***IEEE Transactions on Circuits and Systems II: Express Briefs***, vol. 70, no. 4, pp. 1610-1614, April 2023.
-7. **W. Li**, N. Xu, R. Wang and G. He, "Efficient Compression Methods for Wire-Spread-Based Stochastic Computing Deep Neural Networks," in ***IEEE Transactions on Circuits and Systems II: Express Briefs***, vol. 69, no. 11, pp. 4538-4542, Nov. 2022.
-8. **W. Li**, J. Lin and Z. Wang, "Multi-Layer Generalized Integrated Interleaved Codes," in ***IEEE Communications Letters***, vol. 24, no. 9, pp. 1880-1884, Sept. 2020.
-9. **W. Li**, J. Lin and Z. Wang, "A 124-Gb/s Decoder for Generalized Integrated Interleaved Codes," in ***IEEE Transactions on Circuits and Systems I: Regular Papers***, vol. 66, no. 8, pp. 3174-3187, Aug. 2019.
-10. **W. Li**, J. Tian, J. Lin and Z. Wang, "Modified GII-BCH Codes for Low-Complexity and Low-Latency Encoders," in ***IEEE Communications Letters***, vol. 23, no. 5, pp. 785-788, May 2019.
+1. **W. Li**, D. Lyu, G. Wang, A. Hu, N. Xu, G. He, "Hardware-Oriented Algorithms for Softmax and Layer Normalization of Large Language Models," ***SCIENCE CHINA Information Sciences***, accept, 2024. 
+2. G. Wang, S. Cai, **W. Li**, D. Lyu, G. He, "BSViT: A Bit-Serial Vision Transformer Accelerator Exploiting Dynamic Patch and Weight Bit-Group Quantization," in ***IEEE Transactions on Circuits and Systems I: Regular Papers***, early access, 2024.
+3. **W. Li**, A. Hu, N. Xu, G. He, "CoDA: A Co-Design Framework for Versatile and Efficient Attention Accelerators," in ***IEEE Transactions on Computers***, vol. 73, no. 8, pp. 1924-1938, Aug. 2024.
+4. **W. Li**, A. Hu, N. Xu, G. He, "Quantization and Hardware Architecture Co-Design for Matrix-Vector Multiplications of Large Language Models," in ***IEEE Transactions on Circuits and Systems I: Regular Papers***,  vol. 71, no. 6, pp. 2858-2871, June 2024.
+5. A. Hu, **W. Li**, D. Lyu, G. He, "Efficient Parallel Stochastic Computing Multiply-Accumulate (MAC) Technique Using Pseudo-Sobol Bit-Streams", in ***IEEE Transactions on Nanotechnology***, vol. 23, pp. 170-179, 2024.
+6. **W. Li**, A. Hu, N. Xu and G. He, "A Precision-Scalable Deep Neural Network Accelerator With Activation Sparsity Exploitation," in ***IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems***, vol. 43, no. 1, pp. 263-276, Jan. 2024.
+7. **W. Li**, A. Hu, G. Wang, N. Xu and G. He, "Low-Complexity Precision-Scalable Multiply-Accumulate Unit Architectures for Deep Neural Network Accelerators," in ***IEEE Transactions on Circuits and Systems II: Express Briefs***, vol. 70, no. 4, pp. 1610-1614, April 2023.
+8. **W. Li**, N. Xu, R. Wang and G. He, "Efficient Compression Methods for Wire-Spread-Based Stochastic Computing Deep Neural Networks," in ***IEEE Transactions on Circuits and Systems II: Express Briefs***, vol. 69, no. 11, pp. 4538-4542, Nov. 2022.
+9. **W. Li**, J. Lin and Z. Wang, "Multi-Layer Generalized Integrated Interleaved Codes," in ***IEEE Communications Letters***, vol. 24, no. 9, pp. 1880-1884, Sept. 2020.
+10. **W. Li**, J. Lin and Z. Wang, "A 124-Gb/s Decoder for Generalized Integrated Interleaved Codes," in ***IEEE Transactions on Circuits and Systems I: Regular Papers***, vol. 66, no. 8, pp. 3174-3187, Aug. 2019.
+11. **W. Li**, J. Tian, J. Lin and Z. Wang, "Modified GII-BCH Codes for Low-Complexity and Low-Latency Encoders," in ***IEEE Communications Letters***, vol. 23, no. 5, pp. 785-788, May 2019.
 
 ## Conference Papers
 1. A. Hu, **W. Li**, D. Lv, G. He, "An Efficient Stochastic Convolution Accelerator based on Pseudo-Sobol Sequences," ***17th ACM International Symposium on Nanoscale Architectures (NANOARCH)***, 2022, pp. 1–6.
