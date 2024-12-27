@@ -24,11 +24,11 @@ Work Experience
   
 Resear Interests
 ------
-In genenral, I'm interested in hardware architecture design for domain-specific computing.
+In general, I'm interested in hardware architecture design for domain-specific computing.
 
 * **Error correction codes and their hardware architecture design** (previous)
   
-  I have a certain research background in both **LDPC** codes and **polar** codes. I specialized in algebraic codes, such as **RS** codes, **BCH** codes, and their concantenated codes.
+  I have a certain research background in both **LDPC** codes and **polar** codes. I specialized in algebraic codes, such as **RS** codes, **BCH** codes, and their concatenated codes.
 * **Stochastic computing** (previous)
 
   As a new computing paradigm, stochastic computing has its advantages when compared with conventional binary computing, with *low-complexity arithmetic units* and *fault tolerance* being the most prominent ones.
