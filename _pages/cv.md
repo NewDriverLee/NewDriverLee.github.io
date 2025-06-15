@@ -16,7 +16,7 @@ Education
   * Supervisor: Zhongfeng Wang (Professor of [Nanjing University](https://ese.nju.edu.cn/wzf_24054/list.htm) and [Sun Yat-sen University](https://sic.sysu.edu.cn/members/t01/1408707.htm), Fellow of IEEE)
 * Ph.D. **Shanghai Jiao Tong University**, 2021.04-2025.03
   * Supervisor: Guanghui He (Cheung Kong Professor of [Shanghai Jiao Tong University](https://dmne.sjtu.edu.cn/dmne/faculty/heguanghui/)), and Ningyi Xu (Professor of [Shanghai Jiao Tong University](http://www.qingyuan.sjtu.edu.cn/a/xu-ning-yi-1.html) )
-* Lecture **Chongqing Normal University**, 2025.06-now
+* Lecturer **Chongqing Normal University**, 2025.06-now
 
 Work Experience
 ------
