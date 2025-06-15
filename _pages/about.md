@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wenjie Li, in Chinese 李文杰. I was born in Chongqing, China. I have spent seven years in Nanjing from 2013 to 2020. In 2021, I moved to Shanghai. From 2021 to 2025, I have been pursuing my Ph.D. at Shanghai Jiao Tong University. Now I'm a Lecture of Chongqing Normal University, China. 
+My name is Wenjie Li, in Chinese 李文杰. I was born in Chongqing, China. I have spent seven years in Nanjing from 2013 to 2020. In 2021, I moved to Shanghai. From 2021 to 2025, I have been pursuing my Ph.D. at Shanghai Jiao Tong University. Now I'm a Lecturer of Chongqing Normal University, China. 
 
 My main research interetst is hardware architecture design for domain-specific computing. I have published more than 10 peer-reviewed papers in ***IEEE Transactions on Circuits and Systems I: Regular Papers***, ***IEEE Transactions on Computers***, ***IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems***, ***IEEE Transactions on Circuits and Systems II: Express Briefs***, and ***IEEE Communications Letters***.
 
